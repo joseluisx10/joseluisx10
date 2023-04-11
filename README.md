@@ -1,8 +1,14 @@
 <div align="center"><img src="/src/developer.gif" width="600px" height="230px" /></div>
 <h1 align="center">Hi 👋,  I'm Jose Luis</h1>
-- 🔭 I’m currently searching to my first work as developer front end or back end
-- 🌱 I’m currently learning java api and other lenguajes
-- 📫 How to reach me: joseluis.9108@hotmail.com
+<div>
+  <ul type="none">
+    <li>🔭 I’m currently searching to my first work as developer front end or back end</li>
+    <li>🌱 I’m currently learning java api and other lenguajes</li>
+    <li>📫 How to reach me: <b>joseluis.9108@hotmail.com</b></li>
+
+  </ul>
+</div>
+
 
 <section align="center">
   <h2> Languages and Tools </h2>
@@ -40,7 +46,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: joseluis.9108@hotmail.com
+- 📫 How to reach me:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <!--
