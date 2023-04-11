@@ -6,7 +6,7 @@
     <a href="#" target="_blank"> <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/> </a>
-    <a href="https://www.youtube.com/channel/UC_mYh5PYPHBJ5YYUj8AIkcw" target="_blank"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?     style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
+    <a href="#"> <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a"/> </a>
@@ -23,7 +23,8 @@
 </p>
 </section>
 <section align="center">
-<h2 > GitHub Stats</h2>
+<!-- <h2 > GitHub Stats</h2> -->
+
 </section>
 <!--
 **joseluisx10/joseluisx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
