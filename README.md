@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋,  I'm Jose Luis</h1>
 <div>
   <ul type="none">
-    <li>🔭 I’m currently searching to my first work as developer front end or back end</li>
+    <li>🔭 I’m currently searching for my first job as developer front-end or back-end</li>
     <li>🌱 I’m currently learning java api and other lenguajes</li>
     <li>📫 How to reach me: <b>joseluis.9108@hotmail.com</b></li>
 
