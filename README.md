@@ -1,5 +1,6 @@
 <!-- [![MC Technology](src/mctechnology_extendido.GIF)] -->
 <h1 align="center">Hi 👋,  I'm Jose Luis</h1>
+<!-- <img></img> -->
 
 <!--
 **joseluisx10/joseluisx10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
