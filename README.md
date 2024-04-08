@@ -1,9 +1,5 @@
 <div align="center"><img src="/src/developer.gif" width="600px" height="230px" /></div>
-<h1 align="center">Hola 👋,  Soy Jose Luis Quispe</h1>
-<div>
-   Soy desarrollador web con un amplio stack de tecnologías.
-</div>
-
+<h1 align="center">Hola 👋,  Soy desarrollador web con un amplio stack de tecnologías.</h1>
 
 <section align="center">
   <h2> Habilidades </h2>
