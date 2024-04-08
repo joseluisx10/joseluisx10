@@ -2,9 +2,9 @@
 <h1 align="center">Hi 👋,  I'm Jose Luis</h1>
 <div>
   <ul type="none">
-    <li>🔭 I’m currently searching for my first job as developer front-end or back-end</li>
-    <li>🌱 I’m currently learning java api and other lenguajes</li>
-    <li>📫 How to reach me: <b>joseluis.9108@hotmail.com</b></li>
+    <li>🔭</li>
+    <li>🌱/li>
+    <li></b></li>
 
   </ul>
 </div>
@@ -20,13 +20,13 @@
     <a href="#"> <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c++&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a"/> </a>
-    <a href="#"> <img src="https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a"/> </a>
+    <a href="#"> <img src="https://img.shields.io/badge/Code-Spring-informational?style=flat&logo=spring&logoColor=white&color=3c60e6"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=2bbc8a"/> </a>
+    <a href="#"> <img src="https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3c60e6"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a"/> </a>
-    <a href="#"> <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>   
