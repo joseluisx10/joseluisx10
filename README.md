@@ -20,6 +20,8 @@
     <a href="#"> <img src="https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=3c60e6"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2bbc8a"/> </a>
+    <a href="#"> <img src="https://img.shields.io/badge/Code-Jquery-informational?style=flat&logo=jquery&logoColor=white&color=e0e63c"/> </a>
+    <a href="#"> <img src="https://img.shields.io/badge/Code-typescript-informational?style=flat&logo=typescript&logoColor=white&color=e0e63c"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a"/> </a>
     <a href="#"> <img src="https://img.shields.io/badge/Tools-GitLab-informational?style=flat&logo=gitlab&logoColor=white&color=2bbc8a"/> </a>   
 </p>
